@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 
-#### I am Saif ur rehman. Web developer and designer.
+#### I am Saif ur rehman. Laravel developer | next.js enthusiast.
 # 💫About Me :
-I am currently working on my first startup
+### I am saif ur rehman from Pakistan. I am graduated as software engineer and i am working as web developer from almost 2 years. I mostly work with php and especially in php i work on laravel in whole my time. But i also work with core php just for me in early days of my learning. But now i work with laravel. With laravel i am highly interested in reac.js and its framework Next.js. I not did any professional project with next.js but i did some projects for my own. iI work with middlewares apis next auth server side rendering client side rendering and incremental generation in next.js.
 
-
+ ### So here is my brief introduction. i hope you get my point and if you have any concerns please reach me out. i am always available for you.
+ 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saifurrehman200) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_awan_Saif) 
 
