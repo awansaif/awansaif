@@ -1,13 +1,81 @@
 ### Hi there 👋
 
-#### I am Saif ur rehman. Laravel developer | next.js enthusiast.
+#### This is Danish Rangaiz | next.js enthusiast.
 
 ## About Me :
 
-#### I am saif ur rehman from Pakistan. I am graduated as software engineer and i am working as web developer from almost 2 years. I mostly work with php and especially in php i work on laravel in whole my time. But i also work with core php just for me in early days of my learning. But now i work with laravel. With laravel i am highly interested in reac.js and its framework Next.js. I not did any professional project with next.js but i did some projects for my own. iI work with middlewares apis next auth server side rendering client side rendering and incremental generation in next.js.
+####  An ELITE Custom WordPress Developer plus Front End Developer on UpWork, Fiverr specializing in Theme Development, Theme Customization, Plugin Customization, Elementor Pro, PHP, Divi, HTML to WordPress, ACF plugin, HTML, CSS, BOOTSTRAP, JQuery, JavaScript, Ajax, and SQLi, Shopify, Web Flow, Database Development, concerning Full Website Customization. I am now a WordPress Developer available 24 hours a day. 7 days a week.
 
-#### So here is my brief introduction. i hope you get my point and if you have any concerns please reach me out. i am always available for you.
- 
+#### I am a true all-around assistant with the ability to multitask & handle all aspects of WordPress Website Developer & Front-End projects while increasing overall productivity with efficient work.
+
+#### I have an advanced education with a Master's Degree and multiple Graduate Certificates I have completed hundreds of varied tasks and I have an immense skill set. I am hard-working, meticulous, & efficient. I will provide exemplary work with quick turnaround times.
+
+#### I have worked with 🌟High Profile Clients🌟 in my career with the following skillset to illustrate:
+
+#### ✪ A SERVICE I OFFER AS A WORDPRESS EXPERT:
+✅ Theme Development
+✅ Theme Customization
+✅ Responsive Website
+✅ PSD to WordPress
+✅ Figma to WordPress
+✅ HTML to WordPress
+✅ XD to WordPress
+✅ ELEMENTOR PRO
+✅ DIVI Builders
+✅ Custom Post UI
+✅ WP Bakery & Avada
+✅ Woocommerce Customization
+✅ Plugin Customization
+✅ Widget Shortcodes
+✅ eCommerce Websites
+✅ Woocommerce Store
+✅ Shopify Website
+✅ WebFlow Websites
+✅ API Configuration
+✅ Payment Integration
+✅ Chat Support Integration
+
+
+#### ✪ A SERVICE I OFFER AS A FRONT-END EXPERT:
+✅ PSD to HTML
+✅ XD to HTML
+✅ HTML & HTML5
+✅ Portfolio Website
+✅ Eye-Catching Templates
+✅ Responsive Website
+✅ Git
+✅ GitHub
+✅ CSS & CSS3
+✅ BOOTSTRAP
+✅ JQuery
+✅ Java Script
+✅ Ajax
+✅ PHP
+✅ MY SQLi
+✅ Database Development
+
+#### ✪ Premium Themes & Plugins:
+💚 Elementor Pro
+💚 Divi Builder & Theme
+💚 Avada Theme
+💚 Wp Bakery & Beaver
+💚 UP Store Theme
+💚 Canva
+💚 Adobe
+💚 Ahref
+💚 Moz
+💚 Smrush
+
+I am negotiable on price & always up for a challenge. I am eager to help and look forward to serving you!
+
+Look no further and get the best quality at the best prices with the fastest turnaround time.
+Let's TALK!
+
+Best,
+Danish
+Custom WordPress Developer
+
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saifurrehman200) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_awan_Saif) 
 
